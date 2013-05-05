@@ -1,0 +1,5 @@
+var toolMenu = {
+    initialize: function() {
+
+    }
+};
